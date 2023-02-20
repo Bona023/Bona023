@@ -35,7 +35,6 @@
 <a href="https://velog.io/@bona023">
   <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023" height=30>
 </a> </br>
-
 <a href="https://velog.io/@bona023">
   <img src="https://velog-readme-stats.vercel.app/api?name=bona023" width=46%>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,8 +42,9 @@
 
 </br></br>
 
-<img src="https://ghchart.rshah.org/Bona023" />
-
+<div align="center">
+<img src="https://ghchart.rshah.org/Bona023" height=100/>
+</div>
 
 </br></br></br></br>
 
