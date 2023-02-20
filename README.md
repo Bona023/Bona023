@@ -25,17 +25,27 @@
 
 </br>
 
+<div align="left" width=49%>
 <a href="https://velog.io/@bona023">
   <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023">
+</a> </br>
+<a href="https://velog.io/@bona023">
+  <img src="https://velog-readme-stats.vercel.app/api?name=bona023">
 </a>
+</div>
 <!--
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=bona023)](https://velog.io/@bona023)
 </br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bona023)](https://velog.io/@bona023)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="right" width=49%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight">
+</div>
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 </br></br></br></br>
