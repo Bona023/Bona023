@@ -25,11 +25,15 @@
 
 </br>
 
+<div align="left">
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=bona023)](https://velog.io/@bona023)
 </br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bona023)](https://velog.io/@bona023)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023)](https://github.com/anuraghazra/github-readme-stats)
+<div align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 </br></br></br></br>
