@@ -27,14 +27,14 @@
 
 <div>
 <a href="https://velog.io/@bona023">
-  <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023">
+  <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023" width=50>
 </a> </br>
 
 <a href="https://velog.io/@bona023">
-  <img src="https://velog-readme-stats.vercel.app/api?name=bona023" width=49%>
+  <img src="https://velog-readme-stats.vercel.app/api?name=bona023" width=45%>
 </a> &nbsp;&nbsp;&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight" width=49%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight" width=45%>
 
 </div>
 
