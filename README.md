@@ -25,18 +25,19 @@
 
 </br>
 
-<div>
+<div align="center">
 <a href="https://velog.io/@bona023">
-  <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023" width=15% height=8%>
+  <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023" height=30>
 </a> </br>
 
 <a href="https://velog.io/@bona023">
-  <img src="https://velog-readme-stats.vercel.app/api?name=bona023" width=45%>
-</a> &nbsp;&nbsp;&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight" width=45%>
-
+  <img src="https://velog-readme-stats.vercel.app/api?name=bona023" width=46%>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight" width=46%>
+
+
 
 
 </br></br></br></br>
