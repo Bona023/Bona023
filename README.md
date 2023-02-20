@@ -6,7 +6,7 @@
 
 </br>
 
-<div align="center" display="inline-block" width=49%>
+<div align="center" float="left" width=49%>
 <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/> &nbsp;
 <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/> &nbsp;
 <img height="30" src="https://img.shields.io/badge/JS-EFD81D?style=plastic-square&logo=Javascript&logoColor=black"/> &nbsp;
