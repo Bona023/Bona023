@@ -25,27 +25,18 @@
 
 </br>
 
-<div align="left" width=49% style="float:left">
-<a href="https://velog.io/@bona023">
+<div align="center">
+<a href="https://velog.io/@bona023" style="float:left;">
   <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023">
 </a> </br>
+
 <a href="https://velog.io/@bona023">
-  <img src="https://velog-readme-stats.vercel.app/api?name=bona023">
-</a>
-</div>
-<!--
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=bona023)](https://velog.io/@bona023)
-</br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bona023)](https://velog.io/@bona023)
--->
+  <img src="https://velog-readme-stats.vercel.app/api?name=bona023" width=49%>
+</a> &nbsp;&nbsp;&nbsp;
 
-<div width=49% style="float:left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight">
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight" width=49%>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
+</div>
 
 
 </br></br></br></br>
