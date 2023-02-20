@@ -39,7 +39,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bona023)](https://velog.io/@bona023)
 -->
 
-<div>
+<div width=49% style="float:left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight">
 </div>
 
