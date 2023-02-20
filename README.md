@@ -5,8 +5,8 @@
 <div align="center"><h2>📝 Studying 📝</h2></div>
 
 </br>
-<div>
-<div style="display:inline-block" align="center" width=49%>
+
+<div align="center" width=49%>
 <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/> &nbsp;
 <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/> &nbsp;
 <img height="30" src="https://img.shields.io/badge/JS-EFD81D?style=plastic-square&logo=Javascript&logoColor=black"/> &nbsp;
@@ -18,9 +18,12 @@
 <img height="30" src="https://img.shields.io/badge/OracleDB-F80000?style=plastic-square&logo=Oracle&logoColor=white"/> &nbsp; 
 <!--<img src="https://img.shields.io/badge/Python-3874AB?style=plastic-square&logo=Python&logoColor=white"/>-->
 </div>
-<div style="display:inline-block" align="center" width=49%>
+
+</br></br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bona023&show_icons=true&theme=tokyonight&hide=stars,issues,contribs" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight">
-</div>
 </div>
 </br></br></br>
 
