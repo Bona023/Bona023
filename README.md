@@ -25,15 +25,17 @@
 
 </br>
 
-<div align="left">
+<a href="https://velog.io/@bona023">
+  <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023">
+</a>
+<!--
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=bona023)](https://velog.io/@bona023)
 </br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bona023)](https://velog.io/@bona023)
-</div>
+-->
 
-<div align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 </br></br></br></br>
