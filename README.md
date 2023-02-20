@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!%20I'm%20Bona&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello!%20I'm%20Bona)
 
 </br></br></br>
 
@@ -16,3 +16,7 @@
 <img height="30" src="https://img.shields.io/badge/OracleDB-F80000?style=plastic-square&logo=Oracle&logoColor=white"/> &nbsp; 
 <!--<img src="https://img.shields.io/badge/Python-3874AB?style=plastic-square&logo=Python&logoColor=white"/>-->
 </div>
+
+</br></br></br></br></br></br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
