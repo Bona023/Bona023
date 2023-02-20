@@ -5,7 +5,7 @@
 <div align="center"><h2>📝 Studying 📝</h2></div>
 
 </br>
-
+<div>
 <div style="display:inline-block" align="center" width=49%>
 <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/> &nbsp;
 <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/> &nbsp;
@@ -20,6 +20,7 @@
 </div>
 <div style="display:inline-block" align="center" width=49%>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight">
+</div>
 </div>
 </br></br></br>
 
