@@ -43,7 +43,7 @@
 </br></br>
 
 <div align="center">
-<img src="https://ghchart.rshah.org/Bona023" height=100/>
+<img src="https://ghchart.rshah.org/Bona023" height=150/>
 </div>
 
 </br></br></br></br>
