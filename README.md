@@ -1,10 +1,8 @@
-<div align="center">
-# 🌱 Hi there ~ 🌱 
-</div>
+<div align="center"><h1>🌱 Hi there ~ 🌱</h1></div>
 
 </br></br></br>
 
-<div align="center">## 📝 Studying 📝</div>
+<div align="center"><h2>📝 Studying 📝</h2></div>
 
 <div align="center">
 <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/> &nbsp;
