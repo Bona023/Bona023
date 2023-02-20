@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello!%20I'm%20Bona)
 
-</br>
+</br></br>
 
 <div align="center"><h2>📝 Studying 📝</h2></div>
+
+</br>
 
 <div align="center">
 <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/> &nbsp;
@@ -17,15 +19,19 @@
 <!--<img src="https://img.shields.io/badge/Python-3874AB?style=plastic-square&logo=Python&logoColor=white"/>-->
 </div>
 
-</br></br>
+</br></br></br>
 
 <div align="center"><h2>🌟 SNS 🌟</h2></div>
 
+</br>
+
+<div align="center">
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=bona023)](https://velog.io/@bona023)
 </br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bona023)](https://velog.io/@bona023)
+</div>
 
 
-</br></br></br>
+</br></br></br></br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
