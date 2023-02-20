@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello! I'm Bona)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!%20I'm%20Bona&section=header)
 
 </br></br></br>
 
