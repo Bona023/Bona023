@@ -22,8 +22,8 @@
 </br></br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bona023&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs" width=50% height=100/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight" width=45%  height=100/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bona023&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs" width=50% height=200/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight" width=45%  height=200/>
 </div>
 </br></br></br>
 
