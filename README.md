@@ -29,6 +29,8 @@
 </br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bona023)](https://velog.io/@bona023)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </br></br></br></br>
 
