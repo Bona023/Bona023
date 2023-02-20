@@ -25,11 +25,9 @@
 
 </br>
 
-<div align="center">
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=bona023)](https://velog.io/@bona023)
 </br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bona023)](https://velog.io/@bona023)
-</div>
 
 
 </br></br></br></br>
