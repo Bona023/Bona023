@@ -21,7 +21,7 @@
 
 </br></br></br>
 
-<div align="center"><h2>🌟 SNS 🌟</h2></div>
+<div align="center"><h2>🌟 About Me 🌟</h2></div>
 
 </br>
 
