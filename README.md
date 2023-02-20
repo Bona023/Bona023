@@ -27,7 +27,7 @@
 
 <div>
 <a href="https://velog.io/@bona023">
-  <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023" width=20%>
+  <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023" width=15% height=8%>
 </a> </br>
 
 <a href="https://velog.io/@bona023">
