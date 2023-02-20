@@ -22,7 +22,7 @@
 </br></br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bona023&show_icons=true&theme=tokyonight" width=49% />
+<img src="https://github-readme-stats.vercel.app/api?username=Bona023&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs" width=49% />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bona023&layout=compact&theme=tokyonight" width=49% />
 </div>
 </br></br></br>
