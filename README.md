@@ -32,13 +32,15 @@
 </br>
 
 <div align="center">
-<a href="https://velog.io/@bona023">
-  <img src="https://velog-readme-stats.vercel.app/api/badge?name=bona023" height=30>
-</a> </br>
+<h3>📔 My Blog</h3>
 <a href="https://velog.io/@bona023">
   <img src="https://velog-readme-stats.vercel.app/api?name=bona023" width=46%>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+</br></br>
+
+<h3>🗃️ My Project</h3>
 
 </br></br>
 
