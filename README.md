@@ -39,7 +39,7 @@
 </br>
 
 <h4>🗃️ My Project</h4>
-<a href="https://github.com/Bona023/CampinGa">🔹 CampinGa (캠핑 예약 사이트)</a>
+<a href="https://github.com/Bona023/CampinGa">🔹 CampinGa : 팀프로젝트, 캠핑 예약 사이트 제작</a>
 
 
 </br></br></br></br>
