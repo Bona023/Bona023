@@ -31,22 +31,16 @@
 
 </br>
 
-<div align="center">
 <h3>📔 My Blog</h3>
 <a href="https://velog.io/@bona023">
   <img src="https://velog-readme-stats.vercel.app/api?name=bona023" width=46%>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
 
-</br></br>
+</br>
 
 <h3>🗃️ My Project</h3>
 
-</br></br>
 
-<div align="center">
-<img src="https://ghchart.rshah.org/Bona023" height=150/>
-</div>
 
 </br></br></br></br>
 
