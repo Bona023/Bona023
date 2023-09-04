@@ -15,8 +15,9 @@
 <img height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=plastic-square&logo=Spring&logoColor=white"/> &nbsp;
 <img height="30" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white"/> </br>
 <img height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/> &nbsp;
-<img height="30" src="https://img.shields.io/badge/OracleDB-F80000?style=plastic-square&logo=Oracle&logoColor=white"/> &nbsp; 
-<!--<img src="https://img.shields.io/badge/Python-3874AB?style=plastic-square&logo=Python&logoColor=white"/>-->
+<img height="30" src="https://img.shields.io/badge/OracleDB-F80000?style=plastic-square&logo=Oracle&logoColor=white"/> &nbsp; </br>
+<img height="30" src="https://img.shields.io/badge/Flutter-02569B?style=plastic-square&logo=Flutter&logoColor=white"/> &nbsp;
+<img height="30" src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic-square&logo=TypeScript&logoColor=white"/> &nbsp; 
 </div>
 
 </br></br>
