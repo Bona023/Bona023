@@ -41,7 +41,7 @@
 </br>
 
 <h3>🗃️ My Project</h3>
-<a href="https://github.com/Bona023/CampinGa">🔹 CampinGa : 팀프로젝트, 캠핑 예약 사이트 제작</a>
+<a href="https://github.com/Bona023/CampinGa">🔹 CampinGa : 팀프로젝트, 캠핑 예약 사이트 제작</a></br>
 <a href="https://bona023.github.io/cointracker/">🔹 Coin 정보 : reactJS, 사이드 프로젝트, ghpages</a>
 
 
