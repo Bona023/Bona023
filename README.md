@@ -42,7 +42,7 @@
 
 <h3>🗃️ My Project</h3>
 <a href="https://github.com/Bona023/CampinGa">🔹 CampinGa : 팀프로젝트/ Spring / 캠핑 예약 사이트 제작</a></br>
-<a href="https://bona023.github.io/cointracker/">🔹 Coin 정보 : 개인프로젝트 / ReactJS / 코인정보제공, Github pages</a>
+<a href="https://bona023.github.io/cointracker/">🔹 Coin 정보 : 개인프로젝트 / ReactJS / 코인정보제공, Github pages</a></br>
 <a href="https://bona023.github.io/Scheduler/">🔹 스케줄러 앱 : 개인프로젝트 / ReactJS / 일·주·월 단위 스케줄러, Github pages</a>
 
 
