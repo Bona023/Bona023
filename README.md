@@ -42,10 +42,10 @@
   <img src="https://velog-readme-stats.vercel.app/api?name=bona023" width=46%>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-</br>
+</br></br>
 
 <h2>🗃️ My Portfolio</h2>
-<h4>PORTFOLIO site <a href="https://bona-portfolio.netlify.app/">go→</a></h4>
+<h3>- PORTFOLIO site <a href="https://bona-portfolio.netlify.app/">go→</a></h3>
 
 </br></br></br></br>
 
