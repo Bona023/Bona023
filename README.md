@@ -15,7 +15,7 @@
 <img height="30" src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic-square&logo=TypeScript&logoColor=white"/> &nbsp;
 <img height="30" src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"/> &nbsp;
 <img height="30" src="https://img.shields.io/badge/Gatsby-663399?style=plastic-square&logo=Gatsby&logoColor=white"/> </br>
-<img height="30" src="https://img.shields.io/badge/Python-3776AB?style=plastic-square&logo=Python&logoColor=black"/> &nbsp;  
+<img height="30" src="https://img.shields.io/badge/Python-3776AB?style=plastic-square&logo=Python&logoColor=white"/> &nbsp;  
 <img height="30" src="https://img.shields.io/badge/ReactNative-61DAFB?style=plastic-square&logo=React&logoColor=black"/> &nbsp;
 <img height="30" src="https://img.shields.io/badge/Flutter-02569B?style=plastic-square&logo=Flutter&logoColor=white"/> &nbsp;
 </br>  
