@@ -2,7 +2,7 @@
 
 </br></br>
 
-<div align="center"><h2>Skill</h2></div>
+<div align="center"><h1>⚙️ I'm Studying ...</h1></div>
 
 </br>
 
